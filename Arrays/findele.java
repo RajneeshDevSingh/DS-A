@@ -15,7 +15,7 @@ public class findele
     {
         int idx = 0;
 
-        for(int i = 0; i<arr.length;i++)
+        for(int i = 0; i<arr.length-1;i++)
         {
             if(arr[i] == n)
             {
